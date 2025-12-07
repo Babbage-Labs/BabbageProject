@@ -86,6 +86,6 @@ Nesta pasta, você encontrará:
 
 - `BabbageLabs.pdf`
 
-O arquivo segue exatamente o roteiro acima.
+O arquivo [BabbageLabs.pdf](https://github.com/Babbage-Labs/BabbageProject/blob/main/PPT/BabbageLabs.pdf) segue exatamente o roteiro acima.
 
 ---
