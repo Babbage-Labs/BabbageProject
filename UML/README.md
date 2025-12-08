@@ -1,4 +1,4 @@
-# 📈 Pasta UML
+# 📈 UML
 
 Esta pasta contém **todos os diagramas UML (Unified Modeling Language)** do projeto.  
 
